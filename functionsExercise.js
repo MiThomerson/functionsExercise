@@ -96,7 +96,7 @@ randomMuppet(charactersOne);
 randomMuppet(charactersTwo);
 
 // 13.
-test = `Kids these days`;
+test = `What a wonderful world`;
 
 caps = (string) => {
     let noSpaceString = string.split(" ").join("");
